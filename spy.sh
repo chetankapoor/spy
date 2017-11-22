@@ -1,3 +1,4 @@
+#!/bin/bash
 while :
 do
     screencapture ~/test/spy-$(date +%y%m%d%H%M%S).png
